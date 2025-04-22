@@ -25,13 +25,12 @@ Lords of the Undead é um jogo 2D de ação e aventura onde você enfrenta horda
 - WASD ou Setas: Movimento
 - Espaço: Pular
 - Tecla "Z": Atk Espada
-
+- Mouse Botão Esquerdo/Direito: Atk Espada/Dash
 
 ## 🤝 Contribuições
 Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 ## 📝 Licença
-
 MIT License
 
 Copyright (c) 2024 Lords of the Undead
@@ -59,5 +58,3 @@ Desenvolvido por CShirai
 
 ---
 ⭐ Se você gostou deste projeto, por favor, considere dar uma estrela no GitHub!
-
-https://github.com/CleitonShiraishi/C-Shirai

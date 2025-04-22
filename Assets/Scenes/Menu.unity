@@ -2752,18 +2752,20 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 93f443dabf5022c49bba57242673b2d9, type: 3}
-    m_FontSize: 14
+    m_FontSize: 10
     m_FontStyle: 0
     m_BestFit: 1
-    m_MinSize: 10
+    m_MinSize: 1
     m_MaxSize: 200
-    m_Alignment: 0
+    m_Alignment: 3
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
-    m_LineSpacing: 1
-  m_Text: Dungeon Castle
+    m_LineSpacing: 1.5
+  m_Text: '
+
+    Lords of the Undead'
 --- !u!222 &940948307
 CanvasRenderer:
   m_ObjectHideFlags: 0
